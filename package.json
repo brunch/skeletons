@@ -1,0 +1,19 @@
+{
+  "name": "brunch-skeletons",
+  "version": "0.0.1",
+  "description": "A registry of Brunch skeletons",
+  "main": "skeletons.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brunch/skeletons.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunch/skeletons/issues"
+  },
+  "homepage": "https://github.com/brunch/skeletons#readme"
+}
