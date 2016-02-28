@@ -16,7 +16,7 @@
     },
     {
       "title": "Exim",
-      "url": "hellyeahllc/with-exim",
+      "url": "hellyeahllc/brunch-with-exim",
       "technologies": "Babel, ES6, React, Exim",
       "description": "Exim starter",
       "alias": "exim"
