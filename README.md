@@ -17,4 +17,6 @@ Simply edit `skeletons.json` file and add a new entry like that:
 }
 ```
 
-"URL" means GitHub user and repo. For `github.com/a/b` that would be simply `a/b`
+"URL" means GitHub user and repo. For `github.com/a/b` that would be simply `a/b`.
+
+Add your skeletons to the top of the file, but below official Brunch skeletons.
