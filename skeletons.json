@@ -4,28 +4,28 @@
       "title": "Modern JS",
       "url": "brunch/with-es6",
       "technologies": "Babel, ES6",
-      "description": "A modern JS stack",
+      "description": "Super-simple skeleton that does compilation of ECMAScript 6 files out-of-box",
       "alias": "es6"
     },
     {
       "title": "React",
       "url": "brunch/with-react",
       "technologies": "Babel, ES6, React",
-      "description": "A modern React starter",
+      "description": "Modern skeleton with React library.",
       "alias": "react"
     },
     {
       "title": "Exim",
       "url": "hellyeahllc/brunch-with-exim",
       "technologies": "Babel, ES6, React, Exim",
-      "description": "Exim starter",
+      "description": "An ultra-lightweight Flux-like architecture for HTML5 apps using Facebook's React library.",
       "alias": "exim"
     },
     {
       "title": "React + Redux",
       "url": "brunch/with-redux",
       "technologies": "Babel, ES6, React, Redux",
-      "description": "Brunch Redux starter",
+      "description": "Redux: Predictable state container for React apps.",
       "alias": "redux"
     },
     {
