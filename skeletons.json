@@ -29,6 +29,12 @@
       "alias": "redux"
     },
     {
+      "title": "Weekend Brunch",
+      "url": "jamesabels/Weekend-Brunch",
+      "technologies": "Electron, Babel, ES6, Sass, Susy, Modular-Scale",
+      "description": "Weekend Brunch is a Brunch Skeleton powered by Electron, Sass and Babel."
+    },
+    {
       "title": "Node-Webkit Hipster Seed",
       "url": "Anonyfox/node-webkit-hipster-seed",
       "technologies": "Node-Webkit, Grunt building, brunch-angular-seed (Jade, Less, Coffeescript, Angular, Bootstrap)",
