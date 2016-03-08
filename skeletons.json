@@ -579,6 +579,12 @@
       "url": "makenew/tasty-brunch",
       "technologies": "JavaScript (Babel, Standard, UglifyJS), Sass (Sass Lint), Dev extras",
       "description": "Minimal and unopinionated. Tasty dev pipeline. Extra-tasty boilerplate."
+    },
+    {
+      "title": "Brunch with Vue",
+      "url": "https://github.com/nblackburn/brunch-with-vue",
+      "technologies": "Vue, Vuex, Vue Router, Vue Resource, Babel",
+      "description": "A skeleton application utilizing vue, vuex, vue-resource and vue-router."
     }
   ]
 }
