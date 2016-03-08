@@ -141,6 +141,12 @@
       "description": "As minimal as possible for building your own toolchain on top of."
     },
     {
+      "title":"Z9 Kickstart",
+      "url":"plugnburn/z9-kickstart",
+      "technologies":"999.css, Zen.js, Q.js, R.js, XT.js",
+      "description":"Brunch-based boilerplate to create ultra-small-sized HTML5 apps with ZenQRXT stack and 999.css"
+    },
+    {
       "title": "Brunch with Hampsters",
       "url": "wordofchristian/brunch-with-hampsters",
       "technologies": "CoffeeScript, Stylus, Emblem.js",
