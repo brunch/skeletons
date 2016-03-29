@@ -15,6 +15,13 @@
       "alias": "react"
     },
     {
+      "title": "Brunch with TypeScript",
+      "url": "ysle/brunch-with-typescript",
+      "technologies": "TypeScript",
+      "description": "a starter skeleton for TypeScript",
+      "alias": "ts"
+    },
+    {
       "title": "Exim",
       "url": "hellyeahllc/brunch-with-exim",
       "technologies": "Babel, ES6, React, Exim",
