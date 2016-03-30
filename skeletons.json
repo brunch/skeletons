@@ -36,6 +36,13 @@
       "alias": "redux"
     },
     {
+      "title": "Brunch with MarionetteJS",
+      "url": "https://github.com/denar90/brunch-with-marionettejs",
+      "technologies": "BackboneJS, MarionetteJS, Babel, ES6",
+      "description": "Modern skeleton with MarionetteJS library.",
+      "alias": "marionettejs"
+    },
+    {
       "title": "Weekend Brunch",
       "url": "jamesabels/Weekend-Brunch",
       "technologies": "Electron, Babel, ES6, Sass, Susy, Modular-Scale",
