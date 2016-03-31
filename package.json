@@ -1,6 +1,6 @@
 {
   "name": "brunch-skeletons",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A registry of Brunch skeletons",
   "main": "skeletons.json",
   "scripts": {
