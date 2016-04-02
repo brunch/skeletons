@@ -6,17 +6,20 @@ Human-readable version: http://brunch.io/skeletons
 
 ## Adding your skeleton
 
-Simply edit `skeletons.json` file and add a new entry like that:
+Simply edit `skeletons.json` file and add a new entry *to the top of the file, but below official Brunch skeletons*:
 
-```
+```json
 {
-  "title": "Exim",
+  "title": "Brunch with Exim",
   "url": "hellyeahllc/with-exim",
+  "alias": "exim",
   "technologies": "Babel, ES6, React, Exim",
   "description": "Very useful for Cordova apps. A simple skeleton that uses HTML5 boilerplate, React and Exim framework."
 }
 ```
 
-"URL" means GitHub user and repo. For `github.com/a/b` that would be simply `a/b`.
+* **Title** - Simple and concise title of your skeleton
+* **URL** - Git URL. If you're using GitHub `github.com/a/b` may simply be `a/b`.
+* **Alias** - a short alias, so users would be able to use `brunch new -s alias` instead of specifying full Git URL.
 
-Add your skeletons to the top of the file, but below official Brunch skeletons.
+Don't forget 
