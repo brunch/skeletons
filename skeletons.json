@@ -15,6 +15,13 @@
       "alias": "react"
     },
     {
+      "title": "Brunch with Elm",
+      "url": "alaister/brunch-with-elm",
+      "technologies": "Elm, Sass",
+      "description": "Brunch with Elm & Sass",
+      "alias": "elm"
+    },
+    {
       "title": "Brunch with TypeScript",
       "url": "ysle/brunch-with-typescript",
       "technologies": "TypeScript",
