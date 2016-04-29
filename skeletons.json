@@ -53,7 +53,8 @@
       "title": "Weekend Brunch",
       "url": "jamesabels/Weekend-Brunch",
       "technologies": "Electron, Babel, ES6, Sass, Susy, Modular-Scale",
-      "description": "Weekend Brunch is a Brunch Skeleton powered by Electron, Sass and Babel."
+      "description": "Weekend Brunch is a Brunch Skeleton powered by Electron, Sass and Babel.",
+      "alias": "electron"
     },
     {
       "title": "Node-Webkit Hipster Seed",
