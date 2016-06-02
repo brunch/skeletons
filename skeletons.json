@@ -613,6 +613,13 @@
       "url": "nblackburn/brunch-with-vue",
       "technologies": "Vue, Vuex, Vue Router, Vue Resource, Babel",
       "description": "A skeleton application utilizing vue, vuex, vue-resource and vue-router."
+    },
+    {
+      "title": "Ionic Brunch ES6 Seed",
+      "url": "tolyo/ionic-brunch-es6-seed",
+      "alias": "ionic-es6",
+      "technologies": "Babel, ES6, Sass, Ionic, AngularJS, Cordova",
+      "description": "ES6 starter project for Ionic framework mobile application."
     }
   ]
 }
