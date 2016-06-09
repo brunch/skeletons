@@ -620,6 +620,13 @@
       "alias": "ionic-es6",
       "technologies": "Babel, ES6, Sass, Ionic, AngularJS, Cordova",
       "description": "ES6 starter project for Ionic framework mobile application."
+    },
+    {
+      "title": "Ghost theme with brunch",
+      "url": "diegys/Ghost-Themes-with-Brunch",
+      "alias": "ghost-theme-with-brunch",
+      "technologies": "Babel, ES6, PostCss",
+      "description": "ES6 starter project for Ghost theme development with Casper included as reference."
     }
   ]
 }
