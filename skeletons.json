@@ -634,6 +634,14 @@
       "alias": "elm-sass-bootstrap",
       "technologies": "Elm, Babel, ES6, Sass, Bootstrap",
       "description": "Elm 0.17 starter project with ES6, Sass and Bootstrap."
+    },
+    {
+      "title": "Lazy static site generator.",
+      "url": "DoumanAsh/lazy-static-site-gen",
+      "alias": "lazy-static-site-gen",
+      "technologies": "Jade, Stylus, JSHint",
+      "description": "Simple static site generator. Powered by power of Jade and Stylus. Everything you need for quick and lazy work."
     }
+
   ]
 }
