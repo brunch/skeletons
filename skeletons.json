@@ -50,6 +50,13 @@
       "alias": "marionettejs"
     },
     {
+      "title": "Brunch with ThreeJS",
+      "url": "jeremboo/brunch-threejs-es2015",
+      "alias": "threeJS",
+      "technologies": "ThreeJS, WebGL, Babel, ES2015",
+      "description": "To starting a project in WebGL with Three.js and es2015"
+    },
+    {
       "title": "Weekend Brunch",
       "url": "jamesabels/Weekend-Brunch",
       "technologies": "Electron, Babel, ES6, Sass, Susy, Modular-Scale",
