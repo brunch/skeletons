@@ -1,5 +1,12 @@
 {
   "skeletons": [
+   {
+      "title": "Dead-simple brunch",
+      "url": "brunch/dead-simple",
+      "technologies": "—",
+      "description": "Dead-simple brunch skeleton. No opinions, just empty dirs and minimal configs.",
+      "alias": "simple"
+    },
     {
       "title": "Modern JS",
       "url": "brunch/with-es6",
@@ -13,6 +20,32 @@
       "technologies": "Babel, ES6, React",
       "description": "Modern skeleton with React library.",
       "alias": "react"
+    },
+    {
+      "title": "React + Redux",
+      "url": "brunch/with-redux",
+      "technologies": "Babel, ES6, React, Redux",
+      "description": "Redux: Predictable state container for React apps.",
+      "alias": "redux"
+    },
+    {
+      "title": "Brunch with Coffee",
+      "url": "brunch/simple-coffee-skeleton",
+      "technologies": "CoffeeScript, Stylus, Handlebars",
+      "description": "HTML5 Boilerplate, jQuery. It was the default skeleton in brunch 1.1. Unsupported but still working."
+    },
+    {
+      "title": "Brunch with JS",
+      "url": "brunch/simple-js-skeleton",
+      "technologies": "JavaScript, Stylus, Handlebars",
+      "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
+    },
+    {
+      "title": "Brunch with Cocktails",
+      "url": "kgcreative/brunch-with-cocktails",
+      "technologies": "Bourbon, Neat, Bitters, Normalize,jQuery",
+      "description": "Minimal brunch skeleton, served with bourbon, neat and bitters, with a side of normalize and jQuery.",
+      "alias": "cocktails"
     },
     {
       "title": "Brunch with Elm",
@@ -34,13 +67,6 @@
       "technologies": "Babel, ES6, React, Exim",
       "description": "An ultra-lightweight Flux-like architecture for HTML5 apps using Facebook's React library.",
       "alias": "exim"
-    },
-    {
-      "title": "React + Redux",
-      "url": "brunch/with-redux",
-      "technologies": "Babel, ES6, React, Redux",
-      "description": "Redux: Predictable state container for React apps.",
-      "alias": "redux"
     },
     {
       "title": "Brunch with MarionetteJS",
@@ -115,23 +141,11 @@
       "description": "A skeleton for rapid Ember development. Including automated Ember installation scripts, environment-specific JS builds, generators, and Ember.vim support."
     },
     {
-      "title": "Brunch with Coffee",
-      "url": "brunch/simple-coffee-skeleton",
-      "technologies": "CoffeeScript, Stylus, Handlebars",
-      "description": "HTML5 Boilerplate, jQuery. It was the default skeleton in brunch 1.1. Unsupported but still working."
-    },
-    {
       "title": "Brunch with Banana Pancakes",
       "url": "Anaphase/brunch-banana-pancakes",
       "technologies": "JavaScript, Sass, LESS, Handlebars",
       "description": "Twitter Bootstrap, Mediator. Essentially the same as <a href='https://github.com/nezoomie/brunch-eggs-and-bacon'>Brunch with Eggs and Bacon</a>, but constantly updated to the latest library versions.",
       "alias": "banana-pancakes"
-    },
-    {
-      "title": "Brunch with JS",
-      "url": "brunch/simple-js-skeleton",
-      "technologies": "JavaScript, Stylus, Handlebars",
-      "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
       "title": "Brunch On Asteroids",
@@ -313,13 +327,6 @@
       "url": "tUrG0n/brunch-chrunb",
       "technologies": "CoffeeScript, Stylus, Jade",
       "description": "Twitter Bootstrap, jQuery"
-    },
-    {
-      "title": "Dead-simple brunch",
-      "url": "brunch/dead-simple",
-      "technologies": "—",
-      "description": "Dead-simple brunch skeleton. No opinions, just empty dirs and minimal configs.",
-      "alias": "simple"
     },
     {
       "title": "Brunch with Chaplin and Initializr",
