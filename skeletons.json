@@ -655,7 +655,13 @@
       "alias": "lazy-static-site-gen",
       "technologies": "Jade, Stylus, JSHint",
       "description": "Simple static site generator. Powered by power of Jade and Stylus. Everything you need for quick and lazy work."
+    },
+    {
+      "title": "Brunch with React MobX",
+      "url": "hasanozgan/brunch-with-react-mobx-bootstrap-jquery",
+      "alias": "lazy-static-site-gen",
+      "technologies": "React, MobX, React Router, Bootstrap, jQuery, ES6",
+      "description": "Starter project for using React MobX with ES6."
     }
-
   ]
 }
