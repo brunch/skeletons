@@ -659,7 +659,7 @@
     {
       "title": "Brunch with React MobX",
       "url": "hasanozgan/brunch-with-react-mobx-bootstrap-jquery",
-      "alias": "lazy-static-site-gen",
+      "alias": "mobx-react-with-brunch",
       "technologies": "React, MobX, React Router, Bootstrap, jQuery, ES6",
       "description": "Starter project for using React MobX with ES6."
     }
