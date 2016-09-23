@@ -607,6 +607,7 @@
     {
       "title": "Brunch with Angular 2",
       "url": "colinbate/ng2-brunch",
+      "alias": "ng2",
       "technologies": "Angular 2, TypeScript",
       "description": "Starter project for using Angular 2 with TypeScript."
     },
