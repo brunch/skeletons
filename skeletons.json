@@ -41,6 +41,13 @@
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
+      "title": "Brunch with Rails",
+      "url": "dimroc/brunch-with-rails",
+      "technologies": "SASS, jQuery, Bootstrap, Auto-Reload",
+      "description": "Minimal brunch skeleton, designed to be used inside a Rails application for a client side asset pipeline that works with Sprockets.",
+      "alias": "rails"
+    },
+    {
       "title": "Brunch with Cocktails",
       "url": "kgcreative/brunch-with-cocktails",
       "technologies": "SASS, Bourbon, Neat, Bitters, Normalize,jQuery",
