@@ -62,6 +62,13 @@
       "alias": "elm"
     },
     {
+      "title": "Brunch with Elm and Electron",
+      "url": "neurodynamic/brunch-with-elm-and-electron",
+      "technologies": "Elm, Sass, Electron",
+      "description": "Brunch with Elm, Sass, and Electron",
+      "alias": "elm-electron"
+    },
+    {
       "title": "Brunch with TypeScript",
       "url": "ysle/brunch-with-typescript",
       "technologies": "TypeScript",
