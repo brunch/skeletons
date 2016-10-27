@@ -41,6 +41,13 @@
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
+      "title": "Brunch Plain Simple",
+      "url": "tkesgar/brunch-plain-simple",
+      "alias": "plain-simple",
+      "technologies": "Babel, ES6, React, Redux, Express, PostCSS",
+      "description": "A customizable server-client single-page app skeleton using ES6+Redux+React and Express."
+    },
+    {
       "title": "Brunch with Rails",
       "url": "dimroc/brunch-with-rails",
       "technologies": "SASS, jQuery, Bootstrap, Auto-Reload",
