@@ -41,6 +41,13 @@
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
+      "title": "React with Jest",
+      "url": "Ritabrata-TW/with-react-jest",
+      "technologies": "Babel, ES6, React, React, Jest, Enzyme",
+      "description": "Modern skeleton with React library and testing support using Jest and Enzyme.",
+      "alias": "react-jest"
+    },
+    {
       "title": "Brunch Plain Simple",
       "url": "tkesgar/brunch-plain-simple",
       "alias": "plain-simple",
