@@ -41,6 +41,13 @@
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
+      "title": "Brunch with MEANtballs",
+      "url": "Tim15/brunch-meantballs",
+      "technologies": "MongoDB, Express, AngularJS, Babel",
+      "description': "a modern MEAN stack skeleton for Brunch",
+      "alias": "meantballs"
+    },
+    {
       "title": "React with Jest",
       "url": "Ritabrata-TW/with-react-jest",
       "technologies": "Babel, ES6, React, React, Jest, Enzyme",
