@@ -71,8 +71,8 @@
     {
       "title": "Brunch with Cocktails",
       "url": "kgcreative/brunch-with-cocktails",
-      "technologies": "SASS, Bourbon, Neat, Bitters, Normalize,jQuery",
-      "description": "Minimal brunch skeleton, served with sass-brunch, bourbon, neat and bitters, with a side of normalize and jQuery.",
+      "technologies": "Handlebars(precompiled templates), SASS, Bourbon, Neat, Bitters, Normalize, Autoprefixer, jQuery",
+      "description": "Static HTML Boilerplate skeleton, served with handlebars (via html-brunch-static), sass-brunch, bourbon, neat, bitters, normalize and jQuery.",
       "alias": "cocktails"
     },
     {
