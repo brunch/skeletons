@@ -698,6 +698,13 @@
       "alias": "mobx-react-with-brunch",
       "technologies": "React, MobX, React Router, Bootstrap, jQuery, ES6",
       "description": "Starter project for using React MobX with ES6."
+    },
+    {
+      "title": "Brunch with Inferno",
+      "url": "rafaelkallis/brunch-with-inferno",
+      "alias": "inferno",
+      "technologies": "Inferno, ES6, Babel",
+      "description": "Modern skeleton with Inferno."
     }
   ]
 }
