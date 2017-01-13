@@ -701,7 +701,7 @@
     },
     {
       "title": "Brunch with Inferno",
-      "url": "rafaelkallis/brunch-with-inferno",
+      "url": "infernojs/brunch-with-inferno",
       "alias": "inferno",
       "technologies": "Inferno, ES6, Babel",
       "description": "Modern skeleton with Inferno."
