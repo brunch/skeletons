@@ -679,11 +679,11 @@
       "description": "ES6 starter project for Ghost theme development with Casper included as reference."
     },
     {
-      "title": "Elm 0.17 Brunch with Sass, Bootstrap 4",
+      "title": "Elm Brunch with Sass, Bootstrap 4",
       "url": "mathieul/brunch-with-elm-bootstrap",
       "alias": "elm-sass-bootstrap",
       "technologies": "Elm, Babel, ES6, Sass, Bootstrap",
-      "description": "Elm 0.17 starter project with ES6, Sass and Bootstrap."
+      "description": "Elm starter project with ES6, Sass and Bootstrap."
     },
     {
       "title": "Lazy static site generator.",
