@@ -41,6 +41,13 @@
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
+      "title": "Brunch with Phaser",
+      "url": "samme/brunch-phaser",
+      "alias": "phaser",
+      "technologies": "Babel, CoffeeScript, ES6, glue, Typescript",
+      "description": "Make games with Phaser."
+    },
+    {
       "title": "Brunch with MEANtballs",
       "url": "Tim15/brunch-meantballs",
       "technologies": "MongoDB, Express, AngularJS, Babel",
