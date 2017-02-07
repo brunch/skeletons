@@ -712,6 +712,13 @@
       "alias": "inferno",
       "technologies": "Inferno, ES6, Babel",
       "description": "Modern skeleton with Inferno."
+    },
+    {
+      "title": "Brunch with Mithril, MDL",
+      "url": "ilsenem/brunch-with-mithril-material",
+      "alias": "mithril-mdl",
+      "technologies": "Mithril, JSX, MDL, ES6, Babel, ESLint",
+      "description": "SPA skeleton with Mithril and Material Design Lite. Linting with ESLint and JSX transpilation included."
     }
   ]
 }
