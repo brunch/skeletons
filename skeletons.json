@@ -719,6 +719,13 @@
       "alias": "mithril-mdl",
       "technologies": "Mithril, JSX, MDL, ES6, Babel, ESLint",
       "description": "SPA skeleton with Mithril and Material Design Lite. Linting with ESLint and JSX transpilation included."
+    },
+    {
+      "title": "Brunch with Vuety",
+      "url": "srodriki/brunch-with-vuety",
+      "alias": "brunch-with-vuety",
+      "technologies": "Vue, Vuex, VueRouter, ES6, Babel, Axios, Store",
+      "description": "Opinionated SPA skeleton based on Vue, with some boilerplate for setting up your app with Vuex and VueRouter, as well as some neat way to manage user's session."
     }
   ]
 }
