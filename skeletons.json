@@ -41,6 +41,13 @@
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
+      "title": "Brunch + ES6 + Twitter Bootstrap + jQuery",
+      "url": "ziogas/brunch-with-es6-jquery-twitter-bootstrap-autoreload",
+      "alias": "es6-bootstrap",
+      "technologies": "Babel, ES6, Twitter Bootstrap, jQuery",
+      "description": "Twitter Bootstrap 3 Boilerplate with ES6 support."
+    },
+    {
       "title": "Brunch with Phaser",
       "url": "samme/brunch-phaser",
       "alias": "phaser",
