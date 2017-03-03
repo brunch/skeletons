@@ -728,6 +728,13 @@
       "description": "SPA skeleton with Mithril and Material Design Lite. Linting with ESLint and JSX transpilation included."
     },
     {
+      "title": "Brunch with ASP.NET Core MVC plus Knockout and TypeScript",
+      "url": "achimschrepfer/brunch-typescript-knockout",
+      "alias": "aspnet-knockout",
+      "technologies": "ASP.NET, Knockout, jQuery, TypeScript",
+      "description": "Simple skeleton based on ASP.NET Core, Knockout.js, jQuery and TypeScript. Works perfectly when used with Visual Studio Code."
+    },
+    {
       "title": "Brunch with Vuety",
       "url": "srodriki/brunch-with-vuety",
       "alias": "brunch-with-vuety",
