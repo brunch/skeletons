@@ -41,6 +41,13 @@
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
+      "title": "Brunch With Pedro (Bootstrap Sass + jQuery + Handlebars + CommonJS wrapping)",
+      "url": "pnmcosta/brunch-with-pedro",
+      "alias": "brunch-with-pedro",
+      "technologies": "Bootstrap Sass, jQuery, Handlebars, CommonJS",
+      "description": "Brunch With Bootstrap Sass, jQuery, Handlebars and CommonJS wrapping support."
+    },
+    {
       "title": "Brunch + ES6 + Twitter Bootstrap + jQuery",
       "url": "ziogas/brunch-with-es6-jquery-twitter-bootstrap-autoreload",
       "alias": "es6-bootstrap",
