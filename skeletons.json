@@ -41,6 +41,12 @@
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
+      "title": "Brunch on Speed",
+      "url": "filter1/brunch-on-speed",
+      "technologies": "Twitter Bootstrap, jQuery, Sass, Babel, ES6, ESLint, Pleeease (PostCSS), Auto-Reload",
+      "description": "Skeleton for a modern, long-scroll, single, static Web page."
+    },
+    {
       "title": "Brunch With Pedro (Bootstrap Sass + jQuery + Handlebars + CommonJS wrapping)",
       "url": "pnmcosta/brunch-with-pedro",
       "alias": "brunch-with-pedro",
