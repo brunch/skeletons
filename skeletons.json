@@ -45,6 +45,7 @@
       "url": "filter1/brunch-on-speed",
       "technologies": "Twitter Bootstrap, jQuery, Sass, Babel, ES6, ESLint, Pleeease (PostCSS), Auto-Reload",
       "description": "Skeleton for a modern, long-scroll, single, static Web page."
+      "alias": "speed"
     },
     {
       "title": "Brunch With Pedro (Bootstrap Sass + jQuery + Handlebars + CommonJS wrapping)",
