@@ -4,7 +4,7 @@
   "description": "A registry of Brunch skeletons",
   "main": "skeletons.json",
   "scripts": {
-    "test": "exit 0"
+    "test": "node skeletons.json"
   },
   "repository": {
     "type": "git",
