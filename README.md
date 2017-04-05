@@ -1,4 +1,4 @@
-# Brunch Skeletons
+# Brunch Skeletons [![Build Status](https://travis-ci.org/brunch/skeletons.svg?branch=master)](https://travis-ci.org/brunch/skeletons)
 
 This is a registry of Brunch skeletons. Human-readable version: http://brunch.io/skeletons
 
