@@ -17,5 +17,5 @@ Simply edit `skeletons.json` file and add a new entry *to the top of the file, b
 ```
 
 * **Title** &mdash; Simple and concise title of your skeleton.
-* **URL** &mdash; Git URL. For GitHub `github.com/user/repo` may simply be `user/repo`.
+* **URL** &mdash; Git URL. For GitHub repos, `github.com/user/repo` can be shortened to `user/repo`.
 * **Alias** &mdash; a short alias, so users would be able to use `brunch new -s alias` instead of specifying full Git URL.
