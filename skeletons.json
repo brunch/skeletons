@@ -41,6 +41,12 @@
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
+      "title": "Brunch with Vue and Karma",
+      "url": "mileandra/brunch-vue-karma",
+      "technologies": "Babel, ES6, Vue, Vuex, Vue-Router, Karma, Mocha, Chai",
+      "description": "Vue boilerplate with Vuex and Vue-Router, Unit Tests with karma-brunch, mocha and chai"
+    },
+    {
       "title": "Brunch on Speed",
       "url": "filter1/brunch-on-speed",
       "technologies": "Twitter Bootstrap, jQuery, Sass, Babel, ES6, ESLint, Pleeease (PostCSS), Auto-Reload",
