@@ -41,6 +41,13 @@
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
+      "title": "Brunch with Sangria",
+      "url": "m4ttsch/brunch-with-sangria",
+      "technologies": "Babel/ES6, React, Redux, Bootstrap, jQuery, Sass, Airbnb ESLint",
+      "description": "React/Redux boilerplate. Write stylesheets with Sass. Make your life easier with Bootstrap & jQuery. Make your code beautiful with Airbnb ESLint.",
+      "alias": "sangria"
+    },
+    {
       "title": "Brunch with Vue and Karma",
       "url": "mileandra/brunch-vue-karma",
       "technologies": "Babel, ES6, Vue, Vuex, Vue-Router, Karma, Mocha, Chai",
