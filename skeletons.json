@@ -767,6 +767,13 @@
       "alias": "brunch-with-vuety",
       "technologies": "Vue, Vuex, VueRouter, ES6, Babel, Axios, Store",
       "description": "Opinionated SPA skeleton based on Vue, with some boilerplate for setting up your app with Vuex and VueRouter, as well as some neat way to manage user's session."
+    },
+    {
+      "title": "Preact",
+      "url": "sascha53/brunch-with-preact",
+      "technologies": "Babel, ES6, Preact",
+      "description": "Modern skeleton with Preact library.",
+      "alias": "preact"
     }
   ]
 }
