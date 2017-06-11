@@ -41,6 +41,12 @@
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
+      "title": "Brunch with Vue (barebones)",
+      "url": "tomquirk/brunch-vue-barebones",
+      "technologies": "Vue, Vue-Router, Babel, ES2015",
+      "description": "A Barebones Vue Skeleton for Brunch - Minimal Dependencies!"
+    },
+    {
       "title": "Brunch with Sangria",
       "url": "m4ttsch/brunch-with-sangria",
       "technologies": "Babel/ES6, React, Redux, Bootstrap, jQuery, Sass, Airbnb ESLint",
