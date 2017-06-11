@@ -44,7 +44,8 @@
       "title": "Brunch with Vue (barebones)",
       "url": "tomquirk/brunch-vue-barebones",
       "technologies": "Vue, Vue-Router, Babel, ES2015",
-      "description": "A Barebones Vue Skeleton for Brunch - Minimal Dependencies!"
+      "description": "A Barebones Vue Skeleton for Brunch - Minimal Dependencies!",
+      "alias": "vue",
     },
     {
       "title": "Brunch with Sangria",
