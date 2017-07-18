@@ -781,6 +781,13 @@
       "technologies": "Babel, ES6, Preact",
       "description": "Modern skeleton with Preact library.",
       "alias": "preact"
+    },
+	{
+      "title": "Skunch",
+      "url": "madmat92/skunch",
+      "technologies": "JQuery 3, Bootstrap 3, SCSS",
+      "description": "Simple skeleton to build projects with sass and bootstrap",
+      "alias": "skunch"
     }
   ]
 }
