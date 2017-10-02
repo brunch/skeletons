@@ -4,7 +4,7 @@
   "description": "A registry of Brunch skeletons",
   "main": "skeletons.json",
   "scripts": {
-    "test": "node skeletons.json"
+    "test": "node --check ."
   },
   "repository": {
     "type": "git",
@@ -12,8 +12,6 @@
   },
   "author": "Brunch team (http://brunch.io)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/brunch/skeletons/issues"
-  },
+  "bugs": "https://github.com/brunch/skeletons/issues",
   "homepage": "http://brunch.io/skeletons"
 }
