@@ -44,7 +44,7 @@
       "title": "Brunch with Vue and Material Design Components",
       "url": "tim15/brunch-vue-mdc",
       "technologies": "Vue, Vue-Router, Babel, ES2015, Material Design Components",
-      "description": "A Material Web Components Vue Skeleton for Brunch ",
+      "description": "A Material Web Components Vue Skeleton for Brunch",
       "alias": "vue-mdc"
     },
     {
