@@ -41,6 +41,12 @@
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
+      "title": "Brunch with Vue and Material Design Components",
+      "url": "tim15/brunch-vue-mdc",
+      "technologies": "Vue, Vue-Router, Babel, ES2015, Material Design Components",
+      "description": "A Material Web Components Vue Skeleton for Brunch "
+    },
+    {
       "title": "Brunch with Vue (barebones)",
       "url": "tomquirk/brunch-vue-barebones",
       "technologies": "Vue, Vue-Router, Babel, ES2015",
