@@ -788,12 +788,19 @@
       "description": "Modern skeleton with Preact library.",
       "alias": "preact"
     },
-	{
+    {
       "title": "Skunch",
       "url": "madmat92/skunch",
       "technologies": "JQuery 3, Bootstrap 3, SCSS",
       "description": "Simple skeleton to build projects with sass and bootstrap",
       "alias": "skunch"
+    },
+    {
+      "title": "So Elegant",
+      "url": "buckle2000/static-so-elegant",
+      "technologies": "Babel, ES6, JQuery 3, Semantic UI, Stylus, Pug, Moonjs",
+      "description": "Simple skeleton for Docker-hosted static website/app",
+      "alias": "so-elegant"
     }
   ]
 }
