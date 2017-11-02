@@ -713,6 +713,13 @@
       "description": "Minimal and unopinionated. Tasty dev pipeline. Extra-tasty boilerplate."
     },
     {
+      "title": "Brunch with Vue/Element",
+      "url": "pabloveliz/brunch-vue-element",
+      "alias": "vue-element",
+      "technologies": "Vue, Element, Babel, ES2015",
+      "description": "A small starting base for projects using just Vue and Element for the UI."
+    },
+    {
       "title": "Brunch with Vue",
       "url": "nblackburn/brunch-with-vue",
       "technologies": "Vue, Vuex, Vue Router, Vue Resource, Babel",
