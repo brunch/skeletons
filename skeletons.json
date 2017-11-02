@@ -41,6 +41,13 @@
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
+      "title": "Brunch with Vue and Element",
+      "url": "pabloveliz/brunch-vue-element",
+      "alias": "vue-element",
+      "technologies": "Vue, Element, Babel, ES2015",
+      "description": "A small starting base for projects using just Vue and Element for the UI."
+    },    
+    {
       "title": "Brunch with Vue and Material Design Components",
       "url": "tim15/brunch-vue-mdc",
       "technologies": "Vue, Vue-Router, Babel, ES2015, Material Design Components",
