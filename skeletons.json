@@ -41,6 +41,12 @@
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
+      "title": "Brunch in the Future",
+      "url": "cbodin/brunch-in-the-future",
+      "technologies": "ES6, Sass, Airbnb Preset Babel, Airbnb ESLint, Sass lint, UglifyJS, Autoprefixer, Autoreload",
+      "description": "Simple brunch skeleton with no included frontend frameworks. Start a project with ES6 and Sass (scss) support like you've travelled to the future."
+    },
+    {
       "title": "Brunch with Vue and Material Design Components",
       "url": "tim15/brunch-vue-mdc",
       "technologies": "Vue, Vue-Router, Babel, ES2015, Material Design Components",
