@@ -41,6 +41,12 @@
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
+      "title": "Desayuno",
+      "url": "fustkilas/vue-bbjs",
+      "technologies": "JavaScript, Stylus, Jade, Babel, Vue",
+      "description": "BBJS and Vue"
+    },    
+    {
       "title": "Brunch with Vue and Material Design Components",
       "url": "tim15/brunch-vue-mdc",
       "technologies": "Vue, Vue-Router, Babel, ES2015, Material Design Components",
