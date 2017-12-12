@@ -815,6 +815,13 @@
       "technologies": "Riot, Typescript, Pug, Sass",
       "description": "A Riot skeleton with TypeScript.",
       "alias": "riot"
+    },
+    {
+      "title": "Brunch with bucklescript-tea",
+      "url": "jackalcooper/bucklescript-tea-brunch-skeleton",
+      "technologies": "BuckleScript, bucklescript-tea, OCaml",
+      "description": "A bucklescript-tea skeleton.",
+      "alias": "bs-tea"
     }
   ]
 }
