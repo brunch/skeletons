@@ -8,6 +8,13 @@
       "alias": "simple"
     },
     {
+      "title": "vt47-React",
+      "url": "vutran1710/vt47-react-skeleton",
+      "technologies": "Babel, ES6, Airbnb-extended Eslint, React-Router, Redux, Redux-Form, Jumpstate, React-i18next, Jest+Enzyme, React-Styleguidist, Lodash, Normalize.css, Sass",
+      "description": "The most optimal react-app package made for the sake developer's joy. Everything is just ENOUGH to get started quickly.",
+      "alias": "vt47-react"
+    },
+    {
       "title": "Modern JS",
       "url": "brunch/with-es6",
       "technologies": "Babel, ES6",
