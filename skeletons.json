@@ -815,6 +815,13 @@
       "technologies": "Riot, Typescript, Pug, Sass",
       "description": "A Riot skeleton with TypeScript.",
       "alias": "riot"
+    },
+    {
+      "title": "Brunch with p5.js",
+      "url": "mattpilla/p5-brunch",
+      "technologies": "Babel, ES6, p5",
+      "description": "Brunch skeleton for p5.js",
+      "alias": "p5"
     }
   ]
 }
