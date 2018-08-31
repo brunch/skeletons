@@ -1,6 +1,20 @@
 {
   "skeletons": [
    {
+      "title": "Elm Brunch with Bulma and Sass",
+      "url": "ondrej-tucek/elm-brunch-bulma-starter",
+      "alias": "elm-bulma",
+      "technologies": "Elm, Bulma, Sass, Babel, Auto-Reload",
+      "description": "A simple Elm skeleton project with Bulma framework and Sass."
+   },
+   {
+      "title": "Elm Brunch with Foundation and Sass",
+      "url": "ondrej-tucek/elm-brunch-foundation-starter",
+      "alias": "elm-foundation",
+      "technologies": "Elm, Foundation, Sass, Babel, Auto-Reload",
+      "description": "A simple Elm skeleton project with Foundation 6 framework and Sass."
+   },
+   {
       "title": "Dead-simple brunch",
       "url": "brunch/dead-simple",
       "technologies": "—",
