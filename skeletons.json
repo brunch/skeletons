@@ -47,6 +47,12 @@
       "description": "A basic Elm project with in-browser error display and no opinions on CSS"
     },
     {
+      "title": "React-SSR-Site-Template",
+      "url": "rmsheppard/react-brunch-ssr-template",
+      "technologies": "React, babel, es6, express, socket.io, SSR (Server Side Rendering), React-Router, SCSS, Jest, Enzyme",
+      "description": "Very simple site template with React using server side rendering and a very simple server with basic authentication included."
+    },
+    {
       "title": "Brunch with Vue and Material Design Components",
       "url": "tim15/brunch-vue-mdc",
       "technologies": "Vue, Vue-Router, Babel, ES2015, Material Design Components",
