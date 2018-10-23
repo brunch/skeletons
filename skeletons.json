@@ -848,6 +848,13 @@
       "technologies": "Babel, ES6, p5",
       "description": "Brunch skeleton for p5.js",
       "alias": "p5"
+    },
+    {
+      "title": "Express Vue Brunch",
+      "url": "Digyter/expressjs-vuejs-brunch-skeleton",
+      "technologies": "ExpressJS, VueJS, Material Design Components",
+      "description": "Simple skeleton for web app using combined expressjs for backend and vuejs for frontend",
+      "alias": "express-vue"
     }
   ]
 }
