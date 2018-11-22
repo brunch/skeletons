@@ -55,6 +55,13 @@
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
+      "title": "Brunch with Leaflet",
+      "url": "ngottlieb/brunch-leaflet-es6-skeleton",
+      "technologies": "Leaflet, Babel, ES6",
+      "description": "A skeleton for building LeafletJS map applications with Brunch.",
+      "alias": "leaflet"
+    },
+    {
       "title": "Brunch with Ractive.js",
       "url": "usefulparadigm/brunch-ractive",
       "technologies": "JavaScript, Ractivejs",
