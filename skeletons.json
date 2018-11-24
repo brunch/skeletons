@@ -58,8 +58,7 @@
       "title": "Brunch with Leaflet",
       "url": "ngottlieb/brunch-leaflet-es6-skeleton",
       "technologies": "Leaflet, Babel, ES6",
-      "description": "A skeleton for building LeafletJS map applications with Brunch.",
-      "alias": "leaflet"
+      "description": "A skeleton for building LeafletJS map applications with Brunch."
     },
     {
       "title": "Brunch with Ractive.js",
