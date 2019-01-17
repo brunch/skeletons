@@ -864,7 +864,7 @@
     },
     {
       "title": "Multi Vue Brunch",
-      "url":"InvenTorrey/DTVueBrunchSkeleton",
+      "url":"InvenTorrey/MultiVue",
       "technologies": "VueJS, MDI, Bootstrap, JQuery",
       "description": "Organized to create multiple single page applications or to use Vue as a templating system",
       "alias": "multi-vue"
