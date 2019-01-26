@@ -55,6 +55,13 @@
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
+      "title": "Brunchmantic",
+      "url": "prudho/brunchmantic",
+      "technologies": "Fomantic UI, jQuery",
+      "description": "A simple skeleton for building Fomantic UI powered apps.",
+      "alias": "brunchmantic"
+    },
+    {
       "title": "Brunch with Leaflet",
       "url": "ngottlieb/brunch-leaflet-es6-skeleton",
       "technologies": "Leaflet, Babel, ES6",
