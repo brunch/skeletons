@@ -375,7 +375,7 @@
     },
     {
       "title": "Brunch with Panache",
-      "url": "trunkclub/brunch-with-panache",
+      "url": "https://git.habd.as/jhabdas/brunch-with-panache",
       "technologies": "CoffeeScript, Sass, Handlebars",
       "description": "BTC-Chaplin fork with Swag, Hapi, Browser Sync and Cordova. Provides file fingerprinting and accepts environment variables. Testing with Karma, PhantomJS, Mocha, Sinon and Chai. Jake for Rails-like CLI."
     },
@@ -675,7 +675,7 @@
     },
     {
       "title": "Brunch with Emmett",
-      "url": "jhabdas/brunch-with-emmett",
+      "url": "https://git.habd.as/jhabdas/brunch-with-emmett",
       "technologies": "CoffeeScript, Exim (React + Flux), React Router, no-JSX",
       "description": "Builds on top of Exim. Puts on Topcoat for CSS. Sings with Bluebird."
     },
