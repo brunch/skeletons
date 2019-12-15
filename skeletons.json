@@ -1,20 +1,6 @@
 {
   "skeletons": [
    {
-      "title": "Elm Brunch with Bulma and Sass",
-      "url": "ondrej-tucek/elm-brunch-bulma-starter",
-      "alias": "elm-bulma",
-      "technologies": "Elm, Bulma, Sass, Babel, Auto-Reload",
-      "description": "A simple Elm skeleton project with Bulma framework and Sass."
-   },
-   {
-      "title": "Elm Brunch with Foundation and Sass",
-      "url": "ondrej-tucek/elm-brunch-foundation-starter",
-      "alias": "elm-foundation",
-      "technologies": "Elm, Foundation, Sass, Babel, Auto-Reload",
-      "description": "A simple Elm skeleton project with Foundation 6 framework and Sass."
-   },
-   {
       "title": "Dead-simple brunch",
       "url": "brunch/dead-simple",
       "technologies": "—",
@@ -25,7 +11,7 @@
       "title": "Modern JS",
       "url": "brunch/with-es6",
       "technologies": "Babel, ES6",
-      "description": "Super-simple skeleton that does compilation of ECMAScript 6 files out-of-box",
+      "description": "Simple skeleton with Babel support",
       "alias": "es6"
     },
     {
@@ -79,6 +65,20 @@
       "technologies": "Elm",
       "description": "A basic Elm project with in-browser error display and no opinions on CSS"
     },
+    {
+      "title": "Elm Brunch with Bulma and Sass",
+      "url": "ondrej-tucek/elm-brunch-bulma-starter",
+      "alias": "elm-bulma",
+      "technologies": "Elm, Bulma, Sass, Babel, Auto-Reload",
+      "description": "A simple Elm skeleton project with Bulma framework and Sass."
+   },
+   {
+      "title": "Elm Brunch with Foundation and Sass",
+      "url": "ondrej-tucek/elm-brunch-foundation-starter",
+      "alias": "elm-foundation",
+      "technologies": "Elm, Foundation, Sass, Babel, Auto-Reload",
+      "description": "A simple Elm skeleton project with Foundation 6 framework and Sass."
+   },
     {
       "title": "React-SSR-Site-Template",
       "url": "rmsheppard/react-brunch-ssr-template",
