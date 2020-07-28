@@ -41,6 +41,13 @@
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
+      "title": "Brunch Phaser Desktop",
+      "url": "delni/brunch-phaser-desktop",
+      "technologies": "TypeScript, Electron, Phaser",
+      "description": "Phaser3 boilerplate with Typescript and Electron to make desktop games",
+      "alias": "brunch-phaser-desktop"
+    },
+    {
       "title": "Brunchmantic",
       "url": "prudho/brunchmantic",
       "technologies": "Fomantic UI, jQuery",
