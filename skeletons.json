@@ -40,6 +40,11 @@
       "technologies": "JavaScript, Stylus, Handlebars",
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
+      "title": "Brunch with Crank",
+      "url": "darrylcousins/brunch-with-crank",
+      "technologies": "JavaScript, Crank",
+      "description": "Write JSX-driven components with functions, promises and generators."
+    },
     {
       "title": "Brunch Phaser Desktop",
       "url": "delni/brunch-phaser-desktop",
