@@ -209,6 +209,13 @@
       "alias": "elm-electron"
     },
     {
+      "title": "Brunch with Elmkit - web application boilerplate kit",
+      "url": "https://github.com/khusnetdinov/elmkit",
+      "technologies": "Brunch, AutoReloadBrunch, HotModuleReload, Elm, ElmTest, Scss",
+      "description": "Elm kit is web application boilerplate kit for development. This kit build on Brunch, Node, Sass, Elm-lang. It helps you to start development more productive following best practices.",
+      "alias": "elmkit"
+    },
+    {
       "title": "Brunch with TypeScript",
       "url": "ysle/brunch-with-typescript",
       "technologies": "TypeScript",
